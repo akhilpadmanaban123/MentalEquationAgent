@@ -22,3 +22,8 @@ Personalized Motivational Outreach**: The agent delivers daily motivational quot
 **Real-Time Assistance**: Always ready to engage and uplift users, providing unwavering emotional support.
 **Privacy and Security First**: Implements robust encryption and data security measures, safeguarding the user's most personal insights.
 MentalEquation Agent is more than a bot; it’s a lifeline, offering personalized care, emotional support, and actionable insights to help users navigate their mental health journey. This project reimagines how technology can bring comfort and strength to those who need it most.
+
+Arch.
+
+![image](https://github.com/user-attachments/assets/fc563f88-7299-4f94-a4e2-df4dc0932c43)
+
